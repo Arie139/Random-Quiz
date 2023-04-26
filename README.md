@@ -1,5 +1,7 @@
 # Random Quiz Generator App
 
+A quiz application that generates multiple-choice interview questions for programming languages. To increase user engagement and retention, a leaderboard system and a YouTube video player was integrated.
+
 ### Screenshots
 
 ![Screen Shot 2022-02-27 at 9 58 06 AM](https://user-images.githubusercontent.com/58061791/155887730-4a6e10da-a476-4c49-8320-7c2a1795a479.png)
